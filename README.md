@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sergiorcd&show_icons=true&count_private=true&hide_border=true&title_color=723172&icon_color=723172&text_color=c9d1d9&bg_color=0d1117" alt="Sérgio Ricardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiorcd&layout=compact&hide_border=true&title_color=723172&text_color=white&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergiorcd&layout=compact&hide_border=true&title_color=723172&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
